@@ -1,6 +1,6 @@
 title: BIENVENIDO!
 logo: assets/img/AB2DC66A-6D91-41A3-8F84-46F80B178130.jpeg
 description: Blog de descargas y actualizaciones.
-show_downloads: true
+show_downloads: false
 google_analytics:
 theme: jekyll-theme-minimal
